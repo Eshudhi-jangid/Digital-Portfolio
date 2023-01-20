@@ -9,7 +9,7 @@
 
 
 
-  <a href="file:///C:/Users/jeshu/Desktop/eshudhi-portfolio/eshudhi-portfolio/index.html"><strong>➥ Live Demo</strong></a>
+ 
 
 </div>
 
